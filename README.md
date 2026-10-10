@@ -1,5 +1,15 @@
 <<<<<<< HEAD
+## 🚀 Live Demo
 
+🔗 **Live Demo:** [Open Lost & Found App](PASTE_YOUR_DEPLOYED_APP_URL_HERE)
+
+### 🛠️ Built With
+- Python
+- Streamlit
+- SQLite
+- Gemma 4 (Gemini API)
+
+An AI-assisted Lost & Found application that helps users report lost/found items and search for possible matches.
 # FindIt AI 🔎
 
 An AI-powered campus Lost and Found application built using Python, Streamlit, SQLite, and Gemma 4.
